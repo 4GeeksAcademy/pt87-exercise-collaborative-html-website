@@ -1,3 +1,16 @@
 body{
     background: #BDBDBD;
 }
+
+.jumbotron {
+    background-image: url("/website/assets/img/grizelle.jpg");
+    background-size: 100%;
+    aspect-ratio: calc(2408/850);
+}
+
+.jumbotron h1, .jumbotron h2 {
+    background: white;
+    margin: 2rem auto;
+    width: 100%;
+    text-align: center;
+}
