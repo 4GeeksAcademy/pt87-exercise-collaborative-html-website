@@ -2,6 +2,11 @@ body{
     background: #BDBDBD;
 }
 
+.col-md-7 {
+    flex: 0%;
+    width: 58%;
+}
+
 .jumbotron {
     background-image: 
         radial-gradient(
