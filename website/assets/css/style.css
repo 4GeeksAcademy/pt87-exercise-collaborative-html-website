@@ -7,6 +7,8 @@ body{
     width: 58%;
 }
 
+/* Commented out instead of deleted for reasons. */
+/*
 .jumbotron {
     background-image: 
         radial-gradient(
@@ -37,4 +39,4 @@ body{
     margin: 0 auto 2rem;
     width: 75%;
     text-align: center;
-}
+} */
